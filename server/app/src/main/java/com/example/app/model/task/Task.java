@@ -9,7 +9,7 @@ import lombok.Data;
 import jakarta.persistence.GenerationType;
 
 
-
+//テストだにょ〜ん
 
 @Data
 @Entity
